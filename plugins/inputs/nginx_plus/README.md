@@ -9,7 +9,7 @@ Structures for Nginx Plus have been built based on history of
 
 ```
 # Read Nginx Plus' advanced status information
-[[inputs.nginx_plus]]
+[[inputs.nginx_plus_status]]
   ## An array of Nginx status URIs to gather stats.
   urls = ["http://localhost/status"]
 ```
